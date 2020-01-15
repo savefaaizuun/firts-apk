@@ -23,7 +23,7 @@
         android:layout_width="109dp"
         android:layout_height="86dp"
         android:layout_marginBottom="144dp"
-        android:text="Show TextView"
+        android:text="Show TextView git up"
         android:textColor="#2297F3"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         tools:layout_editor_absoluteX="145dp" />
