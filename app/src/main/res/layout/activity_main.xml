@@ -11,21 +11,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World! Asep Cahyudin"
-        android:textColor="#F44336"
+        android:textSize="25sp"
+        android:textColor="@color/hello"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="109dp"
-        android:layout_height="86dp"
-        android:layout_marginBottom="144dp"
-        android:text="Show TextView git up"
-        android:textColor="#2297F3"
-        app:layout_constraintBottom_toTopOf="@+id/textView2"
-        tools:layout_editor_absoluteX="145dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
